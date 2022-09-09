@@ -23,7 +23,7 @@ def execute(){
         designUnitDynamicVariable = 7;
     }else if(designUnit == "DC1 ‐ DC Traction Power"){
         designUnitDynamicVariable = 8;
-    }else if(designUnit == "HP1 ‐ Hunts Point Track and OCS Portals"){
+}else if(designUnit == "HP1 ‐ Hunts Point Track and OCS Portals"){
         designUnitDynamicVariable = 9;
     }else if(designUnit == "HP2 ‐ Hunts Point Civil and Systems"){
         designUnitDynamicVariable = 10;
